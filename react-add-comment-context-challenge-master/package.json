@@ -5,7 +5,7 @@
   "dependencies": {
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
-    "react-scripts": "2.1.5"
+    "react-scripts": "^2.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -21,5 +21,9 @@
     "not dead",
     "not ie <= 11",
     "not op_mini all"
-  ]
+  ],
+  "description": "This app has a form that submits comments to a blog post. The form is only half implemented with context.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
