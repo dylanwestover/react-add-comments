@@ -9,8 +9,7 @@ export default class CommentForm extends Component {
 
     /* change code */
 
-    this.context.addComment({
-
+    console.log({
       author: author.value,
       comment: comment.value,
     })
